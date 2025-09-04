@@ -3,6 +3,7 @@ sidebar_position: 4
 ---
 
 # 连接服务器
+
 如果你本地电脑使用的是 Windows 系统，那我推荐你下载一个叫 Git Bash 的软件来远程连接服务器<br />
 官方免费下载地址：https://git-scm.com/downloads
 ![git bash](https://i.imgur.com/TM8SCDQ.png)
@@ -12,7 +13,7 @@ sidebar_position: 4
 
 粘贴密码时不显示密码，但不影响。
 
-在开始登陆服务器之前，我们先打开命令行ping一下自己服务器上的IP地址是否能ping通
+在开始登陆服务器之前，我们先打开命令行 ping 一下自己服务器上的 IP 地址是否能 ping 通
 <br />
 ![ping](https://i.imgur.com/iyW35ax.png)
 接着打开 git bash 软件，输入 `ssh root@你的服务器ip地址`
@@ -22,4 +23,4 @@ sidebar_position: 4
 出现下面这张图，就说明你已经成功登陆你的服务器了！
 <br />
 ![ssh2](https://i.imgur.com/0MZFmji.png)
-<a href="https://www.vultr.com/?ref=8948199-8H">![](./images/banner_1.png)</a>
+<a href="https://www.vultr.com/?ref=9634529-9J">![](./images/banner_1.png)</a>
