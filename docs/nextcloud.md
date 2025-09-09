@@ -21,4 +21,6 @@ Nextcloud 官网: [https://nextcloud.com](https://nextcloud.com)
 1. 通过 [Vultr](https://www.vultr.com/?ref=9634529-9J) 新建已经安装好 Nextcloud 软件的 VPS
 2. 通过[Nextcloud snap 一键安装包](https://github.com/nextcloud/nextcloud-snap)进行安装
 
+<img src="https://raw.githubusercontent.com/darrenliuwei/darrenliuwei/main/online_class.png" width="420" />
+
 <a href="https://www.vultr.com/?ref=9634529-9J">![](./images/banner_1.png)</a>

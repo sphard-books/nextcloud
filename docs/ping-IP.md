@@ -19,4 +19,7 @@ sidebar_position: 7
 
 将 IP 地址 `127.0.0.1` 换成你自己服务器的 IP 地址<br />
 (注意: ping 和 IP 地址 中间有一个空格)
+
+<img src="https://raw.githubusercontent.com/darrenliuwei/darrenliuwei/main/online_class.png" width="420" />
+
 <a href="https://www.vultr.com/?ref=9634529-9J">![](./images/banner_1.png)</a>

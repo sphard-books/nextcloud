@@ -23,4 +23,7 @@ sidebar_position: 4
 出现下面这张图，就说明你已经成功登陆你的服务器了！
 <br />
 ![ssh2](https://i.imgur.com/0MZFmji.png)
+
+<img src="https://raw.githubusercontent.com/darrenliuwei/darrenliuwei/main/online_class.png" width="420" />
+
 <a href="https://www.vultr.com/?ref=9634529-9J">![](./images/banner_1.png)</a>

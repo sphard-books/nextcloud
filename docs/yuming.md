@@ -20,4 +20,7 @@ sidebar_position: 10
 <font color="red">通过这个链接--->[https://www.namesilo.com/?rid=b58ea49as](https://www.namesilo.com/?rid=b58ea49as)购买域名, 并且使用优惠码“liuwei”或者“darren”, 你就可以获得 1 美元的优惠, 新老用户都可以</font>
 ![](https://i.imgur.com/tzmHt27.png)
 ![](https://i.imgur.com/hb5HPya.png)
+
+<img src="https://raw.githubusercontent.com/darrenliuwei/darrenliuwei/main/online_class.png" width="420" />
+
 <a href="https://www.vultr.com/?ref=9634529-9J">![](./images/banner_1.png)</a>

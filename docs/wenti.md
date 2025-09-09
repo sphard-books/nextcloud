@@ -19,4 +19,6 @@ sidebar_position: 5
 
 3、（一定要注意：认认真真看清楚你自己那边的报错信息，每个人的用户名都不一样，不是每一个人的用户名都叫 `darren` 。每个人的 `known_hosts` 文件里的数据量都是不一样的，我这边是 31 行，你那边有可能是 20 行，也有可能是 1000 行，一定要认认真真看报错信息！）
 
+<img src="https://raw.githubusercontent.com/darrenliuwei/darrenliuwei/main/online_class.png" width="420" />
+
 <a href="https://www.vultr.com/?ref=9634529-9J">![](./images/banner_1.png)</a>

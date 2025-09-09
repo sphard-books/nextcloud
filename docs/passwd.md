@@ -12,4 +12,7 @@ sidebar_position: 6
 先通过命令行连接上服务器，然后使用命令：`passwd root`<br />
 然后根据提示输入新的密码<br />
 修改完成之后立即生效(请谨慎操作)，断开服务器，下次再连接服务器就需要输入修改后的新密码了
+
+<img src="https://raw.githubusercontent.com/darrenliuwei/darrenliuwei/main/online_class.png" width="420" />
+
 <a href="https://www.vultr.com/?ref=9634529-9J">![](./images/banner_1.png)</a>
